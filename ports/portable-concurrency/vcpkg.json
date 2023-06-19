@@ -1,0 +1,6 @@
+{
+  "name": "portable-concurrency",
+  "version": "1.0.0",
+  "homepage": "https://github.com/VestniK/portable_concurrency",
+  "description": "std::future done right. Simple to use portable implementation of the future/promise API inspired by the C++ Extensions for Concurrency TS and some parts of A Unified Executors Proposal for C++."
+}
