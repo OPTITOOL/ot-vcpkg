@@ -3,6 +3,10 @@
         "portable-concurrency": {
             "baseline": "1.0.0",
             "port-version": 0
+        },
+        "grpc": {
+            "baseline": "1.56.0",
+            "port-version": 0
         }
     }
 }
