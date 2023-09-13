@@ -9,7 +9,7 @@ vcpkg_from_github(
     SHA512 cf55f0f739e57fc37ca5a6aaf7838fa9b6116fc45d6a459e8ae840fc45931b5344c2286ec3d5debf62d332eb0f86e4b1f2f6f6406dc2fddec6250067cc3249d7
     HEAD_REF master
     PATCHES
-        00001-fix-uwp.patch
+        #00001-fix-uwp.patch
         00002-static-linking-in-linux.patch
         00003-undef-base64-macro.patch
         00004-link-gdi32-on-windows.patch
